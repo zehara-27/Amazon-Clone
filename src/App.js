@@ -1,14 +1,25 @@
 import "./App.css";
 import Header from "./Header";
 import Home from "./Home";
-// import Product from "./Product";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import Checkout from "./Checkout";
+
 function App() {
   return (
-    <div className="App">
-      <Header />
-      <Home />
-      {/* <Product /> */}
-    </div>
+    <Router>
+      <div className="App">
+        <switch>
+          <Router path="/checkout">
+            <Header />
+            <Checkout />
+          </Router>
+          <Router path="/">
+            <Header />
+            <Home />
+          </Router>
+        </switch>
+      </div>
+    </Router>
   );
 }
 
