@@ -8,16 +8,16 @@ function App() {
   return (
     <Router>
       <div className="App">
-        <switch>
-          <Router path="/checkout">
+        <Switch>
+          <Route path="/checkout">
             <Header />
             <Checkout />
-          </Router>
+          </Route>
           <Router path="/">
             <Header />
             <Home />
           </Router>
-        </switch>
+        </Switch>
       </div>
     </Router>
   );

@@ -14,33 +14,34 @@ function Home() {
         <div className="home__row">
           <Product
             id="12321341"
-            title="The Lean Startup: How Constant Innovation Creates Radically Successful Businesses Paperback"
-            price={11.96}
+            title="Prada PR53SS CATWALK Cat Eye Sunglasses For Women+FREE Complimentary Eyewear Care Kit"
+            price={359.00}
             rating={5}
-            image=""
+            image="https://images-na.ssl-images-amazon.com/images/I/411Sng168JL._AC_UX679_.jpg"
           />
           <Product
             id="49538094"
             title="Kenwood kMix Stand Mixer for Baking, Stylish Kitchen Mixer with K-beater, Dough Hook and Whisk, 5 Litre Glass Bowl"
             price={239.0}
             rating={4}
-            image=""
+            image="https://images-na.ssl-images-amazon.com/images/I/819DK3QrDVL._AC_SX522_.jpg
+"
           />
         </div>
         <div className="home__row">
           <Product
             id="4903850"
-            title="Samsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor"
-            price={199.99}
-            rating={3}
-            image=""
+            title="ASUS ZenBook Pro Duo UX581 15.6” 4K UHD NanoEdge Bezel Touch, Intel Core i7-9750H, 16GB RAM, 1TB PCIe SSD, GeForce RTX 2060, Innovative Screenpad Plus, Windows 10 Pro, Celestial Blue, UX581GV-XB74T"
+            price={2550.99}
+            rating={5}
+            image="https://images-na.ssl-images-amazon.com/images/I/81deSneMCOL._AC_SL1500_.jpg"
           />
           <Product
             id="23445930"
-            title="Amazon Echo (3rd generation) | Smart speaker with Alexa, Charcoal Fabric"
-            price={98.99}
+            title="Asus ZenBook Pro Duo UX581 15.6” 4K UHD NanoEdge Bezel Touch, Intel Core i9-9980HK, 32GB RAM, 1TB PCIe SSD, GeForce RTX 2060, Innovative Screenpad Plus, Windows 10 Pro - UX581GV-XB94T, Celestial Blue"
+            price={2269.0}
             rating={5}
-            image="https://media.very.co.uk/i/very/P6LTG_SQ1_0000000071_CHARCOAL_SLf?$300x400_retinamobilex2$"
+            image="https://images-na.ssl-images-amazon.com/images/I/91ytMW7sXXL._AC_SL1500_.jpg"
           />
           <Product
             id="3254354345"
