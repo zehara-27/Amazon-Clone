@@ -15,17 +15,18 @@ function Home() {
           <Product
             id="12321341"
             title="Prada PR53SS CATWALK Cat Eye Sunglasses For Women+FREE Complimentary Eyewear Care Kit"
-            price={359.00}
+            price={359.0}
             rating={5}
             image="https://images-na.ssl-images-amazon.com/images/I/411Sng168JL._AC_UX679_.jpg"
           />
           <Product
             id="49538094"
-            title="Kenwood kMix Stand Mixer for Baking, Stylish Kitchen Mixer with K-beater, Dough Hook and Whisk, 5 Litre Glass Bowl"
+            title="
+            Click image to open expanded view
+            Bomaker HD 1080P Projector, 200 ANSI Lumen, Native 800p WiFi Mini Projector Outdoor Ultra Portable, 300'' Display Supported Projector Compatible with iPhone,TV Stick,PS4,DVD,Android,Windows"
             price={239.0}
             rating={4}
-            image="https://images-na.ssl-images-amazon.com/images/I/819DK3QrDVL._AC_SX522_.jpg
-"
+            image="https://images-na.ssl-images-amazon.com/images/I/71MZ97kEBTL._AC_SX569_.jpg"
           />
         </div>
         <div className="home__row">
