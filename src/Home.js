@@ -61,6 +61,22 @@ function Home() {
             image="https://images-na.ssl-images-amazon.com/images/I/6125mFrzr6L._AC_SX355_.jpg"
           />
         </div>
+        <div className="home__row">
+          <Product
+            id="12321341"
+            title="Canon PowerShot SX540 Digital Camera w/ 50x Optical Zoom - Wi-Fi & NFC Enabled (Black), 1 - 1067C001t"
+            price={279.99}
+            rating={5}
+            image="https://images-na.ssl-images-amazon.com/images/I/81l6xdQOHyL._AC_SX679_.jpg"
+          />
+          <Product
+            id="49538094"
+            title="LG OLED55CXPUA Alexa Built-In CX 55 4K Smart OLED TV 2020"
+            price={1396.99}
+            rating={4}
+            image="https://images-na.ssl-images-amazon.com/images/I/A1LDFBeKebL._AC_SX679_.jpg"
+          />
+        </div>
       </div>
     </div>
   );
